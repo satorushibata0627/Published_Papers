@@ -5,6 +5,8 @@
     - 学位: [上智大学大学院修士号(環境学) GPA3.74/4.00](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
     - 開発経験(R/Python3/SQL): 3年以上
     - [Kaggle Expert](https://www.kaggle.com/satorushibata)
+        - Solo 1 Silver + 6 Bronze Medals
+        - Highest Rank: 634/156126(Top 0.4%)
 1. 研究
     - 分野: 環境経済学・エネルギー政策
     - 専門: 気候変動対策が及ぼす環境・経済・社会影響の実証分析・国際比較
