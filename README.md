@@ -1,4 +1,4 @@
-# 発表論文
+# 発表論文集
 1. 著者
     - 氏名: [柴田 怜 / Satoru Shibata](https://www.linkedin.com/in/satoru-shibata-91594218b/)
     - 職業: Data Scientist(転職中)
