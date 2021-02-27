@@ -1,25 +1,24 @@
 # 発表論文
 1. 著者
     - 氏名: [柴田 怜 / Satoru Shibata](https://www.linkedin.com/in/satoru-shibata-91594218b/)
-    - 職業: Data Scientist at EDIX, Inc.
-    - 学位: [上智大学大学院修士号(環境学)](https://github.com/satorushibata0627/Publishment/raw/main/20170331_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
-        - [GPA3.74/4.00(93.5%)](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
-    - [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata)
+    - 職業: Data Scientist(転職中)
+    - 学位: [上智大学大学院修士号(環境学) / M.A. in GENV](https://github.com/satorushibata0627/Publishment/raw/main/20170331_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf): [GPA3.74/4.00(93.5%)](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
+    - 称号: [Kaggle Notebooks Expert](https://www.kaggle.com/satorushibata)
+        - 世界ランク最高位: Top < 0.398% ∵ 633/158904
         - Solo 1 Silver + 7 Bronze Medals
-        - Highest Rank: Top 633/158921(< 0.398%)
     - データサイエンスの開発経験: 3年以上
         -  R
         -  Python3
         -  SQL
 1. 研究
-    - 分野: 環境経済学・エネルギー政策
+    - 分野: 環境経済学・エネルギー政策・環境法
     - 専門: 気候変動対策が及ぼす環境・経済・社会影響の実証分析・国際比較
     - 方法: 動学的応用一般均衡モデルと統計的因果推定
     - 知見: 環境影響に鑑みた経済モデルを形成し、これに基づいて気候変動対策や経済活動を行うことが望ましい。
-    - 開発: Jupyter NotebookにてRを用いる。
+    - 開発: Python3 or R in Jupyter Notebook
 1. キーワード
     - 計量時系列分析
-    - マクロ計量モデル
+    - 動的マクロ計量モデル
     - 確率偏微分方程式
     - 数理最適化
     - 統計的有意差検定
