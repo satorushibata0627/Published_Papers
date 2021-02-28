@@ -49,6 +49,6 @@
         - 確率偏微分方程式
     1. 考察(例)
         - 求めた経済モデルを以て今後の経済活動の在り方や気候変動対策等について提言する。
-1. 補足
+1. 資格
     - [法政大学学士号(経済学)](https://github.com/satorushibata0627/Publishment/raw/main/20150324_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E6%B3%95%E6%94%BF%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%A3%AB%E5%8F%B7(%E7%B5%8C%E6%B8%88%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
     - [Kaggle Discussion Solo 11 Bronze Medals](https://www.kaggle.com/satorushibata/discussion)
