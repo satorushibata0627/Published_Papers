@@ -1,6 +1,6 @@
 # 発表論文集
 1. 著者
-    - 氏名: [柴田 怜 / Satoru Shibata](https://www.linkedin.com/in/satoru-shibata-91594218b/)
+    - 氏名: [柴田 怜 / Satoru Shibata](https://www.linkedin.com/in/the-worlds-strongest-data-scientist?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0mgSCSvuQWC%2FSwm%2BKmptbA%3D%3D)
     - 所属: 転職中
     - 部署: 自社開発
     - 職業: Data Scientist
