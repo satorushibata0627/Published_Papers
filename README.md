@@ -2,10 +2,10 @@
 1. 著者
     - 氏名: [柴田 怜 / Satoru Shibata](https://www.linkedin.com/in/satoru-shibata-91594218b/)
     - 所属: 転職中
-    - 部署: 自社開発希望
+    - 部署: 自社開発
     - 職業: Data Scientist
     - 称号: [Kaggle Expert](https://www.kaggle.com/satorushibata)
-        - Code:
+        - [Code](https://www.kaggle.com/satorushibata/code?userId=2505383&sortBy=voteCount&tab=profile):
             - 世界ランク最高位: Top < 0.398% ∵ 633/158904
             - 受賞: Solo 1 Silver + 7 Bronze Medals
         - [Discussion Solo 11 Bronze Medals](https://www.kaggle.com/satorushibata/discussion)  
@@ -16,8 +16,8 @@
     - データサイエンスの開発経験: 3年以上
         -  R
         -  Python3
-        -  SQL
-            - Redshift
+        -  DB
+            - Redshift SQL
             - BigQuery
             - MySQL
             - SQLite
@@ -56,3 +56,10 @@
         - 確率偏微分方程式
     1. 考察(例)
         - 求めた経済モデルを以て今後の経済活動の在り方や気候変動対策等について提言する。
+        - 分析手法及びその結果について付録に詳述する。
+    1. 論文作成
+        1. 研究指導を受ける。
+        1. 草稿を作成する。
+        1. 再び研究指導を受ける。
+        1. 論文原稿を作成する。
+        1. 査読・講評を審査される。
