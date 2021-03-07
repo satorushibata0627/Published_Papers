@@ -6,7 +6,7 @@
     - 職業: Data Scientist
     - 称号: [Kaggle Expert](https://www.kaggle.com/satorushibata)
         - [Code](https://www.kaggle.com/satorushibata/code?userId=2505383&sortBy=voteCount&tab=profile):
-            - 世界ランク最高位: Top < 0.398% ∵ 633/158904
+            - 世界ランク最高位: Top < 0.376% ∵ 603/160475
             - 受賞: Solo 1 Silver + 7 Bronze Medals
         - [Discussion Solo 11 Bronze Medals](https://www.kaggle.com/satorushibata/discussion)  
     - 学位: 
