@@ -7,8 +7,8 @@
     - 専門: 統計的因果推定・影響予測におけるベイズ動的マクロ計量モデル・機械学習の応用
     - 称号: [Kaggle Expert](https://www.kaggle.com/satorushibata)
         - [Code](https://www.kaggle.com/satorushibata/code?userId=2505383&sortBy=voteCount&tab=profile):
-            - 世界ランク最高位: Top 0.358% ∵ 576/161086
-            - 受賞: Solo 1 Silver + 8 Bronze Medals
+            - 世界ランク最高位: Top 0.349% ∵ 562/161152
+            - 受賞: Solo 2 Silver + 7 Bronze Medals
         - [Discussion Solo 11 Bronze Medals](https://www.kaggle.com/satorushibata/discussion)  
     - 学位: 
         - [上智大学大学院修士号(環境学) / Master of Arts in Environmental Studies at Sophia University Graduate School](https://github.com/satorushibata0627/Publishment/raw/main/20170331_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
