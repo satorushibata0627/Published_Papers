@@ -4,7 +4,7 @@
     - 所属: 転職中
     - 部署: 自社開発
     - 職業: Data Scientist
-    - 専門: パネル因果性推定・探索・影響予測のベイズ動的マクロ計量モデル・機械学習の応用
+    - 専門: パネル因果性推定・影響予測の動的応用一般均衡モデル・機械学習
     - 称号: [Kaggle Expert](https://www.kaggle.com/satorushibata)
         - [Code](https://www.kaggle.com/satorushibata/code?userId=2505383&sortBy=voteCount&tab=profile):
             - 世界ランク最高位: Top 0.334% ∵ 548/161214
