@@ -7,7 +7,7 @@
     - 専門: パネル因果性推定・影響予測の動学的応用一般均衡モデル・機械学習
     - 称号: [Kaggle Expert](https://www.kaggle.com/satorushibata)
         - [Code](https://www.kaggle.com/satorushibata/code?userId=2505383&sortBy=voteCount&tab=profile):
-            - 世界ランク最高位: Top 0.3% ∵ 548/161245
+            - 世界ランク最高位: Top 0.3% ∵ 548/161354
             - 受賞: Solo 2 Silver + 7 Bronze Medals
         - [Discussion Solo 17 Bronze Medals](https://www.kaggle.com/satorushibata/discussion)  
     - 学位: 
