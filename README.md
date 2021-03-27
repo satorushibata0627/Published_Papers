@@ -1,11 +1,8 @@
 # 発表論文集
 1. 著者
     - 氏名: [柴田 怜 / Satoru Shibata](https://www.linkedin.com/in/the-worlds-strongest-data-scientist?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0mgSCSvuQWC%2FSwm%2BKmptbA%3D%3D)
-    - 所属: 転職中
-    - 部署: 自社開発
-    - 職業: Data Scientist
     - 専門: パネル因果性推定・影響予測の動学的応用一般均衡モデル・機械学習
-    - 称号: [Kaggle 3 Experts](https://www.kaggle.com/satorushibata)
+    - 称号: [Kaggle 3x Expert](https://github.com/satorushibata0627/Kaggle)
     - 学位: 
         - [上智大学大学院修士号(環境学) / Master of Arts in Environmental Studies at Sophia University Graduate School](https://github.com/satorushibata0627/Publishment/raw/main/20170331_%E5%AD%A6%E4%BD%8D%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6)_%E6%9F%B4%E7%94%B0%E6%80%9C.pdf)
             - [Total GPA 3.74/4.00(93.5%)](https://github.com/satorushibata0627/Publishment/blob/main/20170306_%E6%88%90%E7%B8%BE%E8%A8%BC%E6%98%8E%E6%9B%B8_%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E4%BF%AE%E5%A3%AB%E5%8F%B7(%E7%92%B0%E5%A2%83%E5%AD%A6).pdf)
